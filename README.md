@@ -1,7 +1,7 @@
-#👋
-####If you couldnt tell my name is George
+#👋\
+####If you couldnt tell my name is George\
 #####Ignore my old useless repositories they shouldnt exist
-
+s\
 ------------------------
 
 ####I enjoy:
