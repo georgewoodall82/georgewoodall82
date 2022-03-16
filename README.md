@@ -1,12 +1,12 @@
-#👋
+# 👋
 
-####If you couldnt tell my name is George
+#### If you couldnt tell my name is George
 
-#####Ignore my old useless repositories they shouldnt exist
+##### Ignore my old useless repositories they shouldnt exist
 
 ------------------------
 
-####I enjoy:
+#### I enjoy:
 
 Low level programming
 
