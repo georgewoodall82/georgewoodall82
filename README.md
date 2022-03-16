@@ -1,8 +1,8 @@
 #👋
 <br>
-####If you couldn`t tell my name is George
+####If you couldn't tell my name is George
 <br>
-#####Ignore my old useless repositories they shouldn`t exist
+#####Ignore my old useless repositories they shouldn't exist
 <br>
 
 ------------------------
