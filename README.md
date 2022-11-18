@@ -10,7 +10,7 @@
 
 Low level programming
 
-Github Copilot
+Rust
 
 Artificial Intelligence/Machine Learning
 
